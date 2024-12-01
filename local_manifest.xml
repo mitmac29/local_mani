@@ -13,8 +13,8 @@
  <project path="hardware/xiaomi" name="mitmac29/hardware_xiaomi" remote="suzy" revision="marble" />
  <project path="vendor/motorola-dolby" name="mitmac29/vendor_motorola-dolby" remote="suzy" revision="v1.3" />
  
- <project path="hardware/qcom-caf/sdm660/media" name="mitmac29/android_hardware_qcom-caf_media" remote="suzy" revision="sdm660-4.19-12.2.1.r1" />
+ <!--project path="hardware/qcom-caf/sdm660/media" name="mitmac29/android_hardware_qcom-caf_media" remote="suzy" revision="sdm660-4.19-12.2.1.r1" />
  <project path="hardware/qcom-caf/sdm660/display" name="mitmac29/android_hardware_qcom-caf_display" remote="suzy" revision="sdm660-4.19-12.2.1.r1" />
- <project path="hardware/qcom-caf/sdm660/audio" name="mitmac29/android_hardware_qcom-caf_audio" remote="suzy" revision="lineage-22.0" />
+ <project path="hardware/qcom-caf/sdm660/audio" name="mitmac29/android_hardware_qcom-caf_audio" remote="suzy" revision="lineage-22.0"-->
   
 </manifest>
